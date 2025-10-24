@@ -1,0 +1,6 @@
+CFPS_BASE_DIR = "/Users/houyuxin/03SchoolLearning/05database/cfps"
+CFPS_MERGE_FILE = "cfps-merge.csv"
+
+SUPPORTED_YEARS = [2010, 2012, 2014, 2016, 2018, 2020, 2022]
+
+OUTPUT_DIR = "output"
